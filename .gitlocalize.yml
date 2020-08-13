@@ -12,6 +12,6 @@ pretranslate:
     - "{:.*}"
     - "{%.*%}"
   paths:
-  - source: src/site/content/en
+  - source: bjc-German/bjc-German-translation_test3
     include:
     - "accessible/*.*"
